@@ -20,6 +20,8 @@ public class variabler {
         double gpa = 3.5;
         double temp = -12.5;
 
+        System.out.println(temp);
+
         System.out.println();
 
         System.out.println("$ " + price);
@@ -28,6 +30,7 @@ public class variabler {
         char symbol = '!';
         char currency = '$';
 
+        System.out.println(symbol);
         System.out.println(grade);
         System.out.println(currency);
 
@@ -37,6 +40,8 @@ public class variabler {
         boolean forSale = true;
         boolean isOnline = true;
 
+
+        System.out.println(isOnline);
         System.out.println(isStudent);
 
         if(isStudent){
